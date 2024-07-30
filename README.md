@@ -5,6 +5,7 @@ Revise JAVADS - [Link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 Revise Java HashMap - [Link](https://www.youtube.com/watch?v=H62Jfv1DJlU)
 Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
+Books - [Link](https://github.com/amanrk2801/Data-Structures-Algorithms-Problem-Solving-JavaScript/tree/main/Books)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
